@@ -37,5 +37,10 @@ namespace WindowsFormsApp1
         {
             this.Close();
         }
+
+        private void Form6_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
