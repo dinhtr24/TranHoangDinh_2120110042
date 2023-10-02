@@ -52,5 +52,40 @@ namespace WindowsFormsApp1
             Form7 form7 = new Form7();  
             form7.ShowDialog();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form8 form8 = new Form8();
+            form8.ShowDialog();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form9 form9 = new Form9();
+            form9.ShowDialog();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Form10 form10 = new Form10();
+            form10.ShowDialog();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Form14 form14 = new Form14();
+            form14.ShowDialog();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Form15 form15 = new Form15();
+            form15.ShowDialog();
+        }
     }
 }
