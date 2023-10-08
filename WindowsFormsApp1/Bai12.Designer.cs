@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
-    partial class Form9
+    partial class Bai12
     {
         /// <summary>
         /// Required designer variable.

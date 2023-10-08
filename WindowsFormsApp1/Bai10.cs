@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form8 : Form
+    public partial class Bai10 : Form
     {
         decimal workingMemory = 0;
         string opr = "";
-        public Form8()
+        public Bai10()
         {
             InitializeComponent();
         }

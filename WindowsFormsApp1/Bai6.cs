@@ -10,16 +10,17 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form16 : Form
+    public partial class Bai6 : Form
     {
-        public Form16()
+        public Bai6()
         {
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Text = "Article for Button";
+            this.Size = new Size(500, 500);
         }
     }
 }

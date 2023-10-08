@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form4 : Form
+    public partial class Bai5 : Form
     {
-        public Form4()
+        public Bai5()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            this.Text = "Article for Button";
-            this.Size = new Size(500, 500);
         }
     }
 }

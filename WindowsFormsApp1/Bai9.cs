@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form7 : Form
+    public partial class Bai9 : Form
     {
-        public Form7()
+        public Bai9()
         {
             InitializeComponent();
         }

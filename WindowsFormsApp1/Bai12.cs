@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form9 : Form
+    public partial class Bai12 : Form
     {
-        public Form9()
+        public Bai12()
         {
             InitializeComponent();
         }
