@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bai19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai19.Designer.cs">
+      <DependentUpon>Bai19.cs</DependentUpon>
+    </Compile>
     <Compile Include="Faculty.cs" />
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
@@ -127,6 +133,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bai19.resx">
+      <DependentUpon>Bai19.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>

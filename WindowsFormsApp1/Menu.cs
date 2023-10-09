@@ -93,5 +93,11 @@ namespace WindowsFormsApp1
             Bai16 form16 = new Bai16();
             form16.ShowDialog();
         }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            Bai19 form19 = new Bai19();
+            form19.ShowDialog();
+        }
     }
 }
